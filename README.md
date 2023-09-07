@@ -75,4 +75,4 @@ Os inteiros acima são dados em ordem de chegada, ou seja, o primeiro inteiro di
 ### Saída
 Para cada caso de teste imprima uma linha, contendo um inteiro, indicando o número de alunos que não precisaram trocar de lugar mesmo após a fila ser reordenada.
 
-[Clique aqui para ver mais[(https://www.beecrowd.com.br/judge/pt/problems/view/1548)
+[Clique aqui para ver mais](https://www.beecrowd.com.br/judge/pt/problems/view/1548)
